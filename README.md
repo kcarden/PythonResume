@@ -104,6 +104,6 @@ Feel free to explore the source code in this repository to see how the resume ge
 
     ```python Res_2.py```
 
-Customize the resume template in resume.py to add more sections or change the formatting to suit your preferences and requirements.
-Enhance the Res_2.py script to include new features or improvements.
-That's it! You now have a Python-based resume generator to create and distribute your resume in various formats easily. Good luck with your job search!
+    Customize the resume template in resume.py to add more sections or change the formatting to suit your preferences and requirements.
+    Enhance the Res_2.py script to include new features or improvements.
+    That's it! You now have a Python-based resume generator to create and distribute your resume in various formats easily. Good luck with your job search!
