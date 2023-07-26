@@ -1,12 +1,8 @@
 # Kevin Troy Carden
 
 - Email: cardenkevin@gmail.com
-<<<<<<< HEAD
 - Phone: (706) 410-8955
 
-=======
-  
->>>>>>> bdea04433d629317085e7fca0ebca0820efa896a
 ## Objective
 
 Results-driven and customer-focused professional seeking a Junior Python Developer position. Leveraging a strong foundation in Python programming and a passion for problem-solving, I am eager to contribute my skills to a dynamic development team and build innovative solutions that positively impact the success of the organization.
